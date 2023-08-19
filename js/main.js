@@ -7,3 +7,5 @@ async function getUsers() {
     console.error(error);
   }
 }
+
+getUsers();
